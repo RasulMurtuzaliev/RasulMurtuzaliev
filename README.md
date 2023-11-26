@@ -13,7 +13,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-murtuzaliev-404b0126a/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-murtuzaliev-404b0126a/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
