@@ -3,19 +3,18 @@
 </div>
 
 <p align="center"> Welcome To My GitHub Profile !</p>
-
 ---
-### :man_technologist: About Me :
+### About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
 
 - :seedling: Currently delving into Technical Content Writing.
 
 - :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-murtuzaliev-404b0126a/)
 ---
-### :hammer_and_wrench: Languages and Tools :
+###  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-murtuzaliev-404b0126a/)
+---
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
