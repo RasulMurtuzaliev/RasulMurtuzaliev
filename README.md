@@ -7,7 +7,6 @@
 ---
 
 ### About Me :
-
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
